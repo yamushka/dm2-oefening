@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  font-family: "Space Mono", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  font-size: large;
+}
+
+.aside__container {
+  background-color: grey;
+  max-width: 42%;
+}
+
+.aside__closing-btn {
+  background-color: hsla(223, 82%, 90%, 1);
+  border-radius: 0.5rem;
+  padding: 0.5rem 0.5rem;
+  display: flex;
+  justify-content: center;
+}
